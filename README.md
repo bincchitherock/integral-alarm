@@ -1,2 +1,3 @@
 # integral_alarm
-An alarm that only turns off if you solve the correct integral.
+
+idea that came to me while watching the MIT integration bee. 
