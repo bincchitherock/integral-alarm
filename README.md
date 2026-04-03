@@ -4,7 +4,7 @@ idea that came to me while watching the MIT integration bee.
 
 ## how it works
 
-the program generates a beeping alarm tone from raw sine-wave samples and loops it in a background thread. meanwhile, it picks a random integral from a set of parameterized templates and uses SymPy to compute the exact symbolic answer. you'll be able to type your answer in any form -- exact (`pi/4`), decimal (`0.785`), or expression (`2*exp(-3)+1`) -- and the alarm only stops when you get it right.
+the program generates a beeping alarm tone from raw sine-wave samples and loops it in a background thread. meanwhile, it picks a random integral from a set of parameterized templates and uses SymPy to find the exact symbolic answer like a cas system akin to wolfram alpha. you'll be able to type your answer in any form -- exact (`pi/4`), decimal (`0.785`), or expression (`2*exp(-3)+1`) -- all work! the alarm only stops when you get it right.
 
 ## difficulty tiers (for tiered_integral_alarm.py)
 
