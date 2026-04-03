@@ -1,6 +1,6 @@
 # integral_alarm
 
-idea that came to me while watching the MIT integration bee. 
+idea that came to me while watching the MIT integration bee. i made this public because i wanted to send this to my dad to get him to do integrals, but it isn't polished just yet. 
 
 ## how it works
 
