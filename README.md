@@ -49,6 +49,3 @@ to add new integrals. each template is a dictionary with three keys:
 ```
 
 just append it to the appropriate tier list in `get_templates()` and you're done.
-
-## license
-MIT
